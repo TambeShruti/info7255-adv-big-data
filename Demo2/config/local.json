@@ -1,0 +1,7 @@
+{
+  "PORT": 3000,
+  "DB_PORT": 6379,
+  "DB_HOST": "127.0.0.1",
+  "PLAN_TYPE": "plan",
+  "CLIENT_ID": "406295759537-3k73pfau647e1ruevehhbt558uiq83bg.apps.googleusercontent.com"
+}
